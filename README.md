@@ -13,16 +13,16 @@
 - Member 2: [Anna Rose] - [GEC Kozhikode]
 
 ### Hosted Project Link
-[mention your project hosted link here]
+[https://ansinaashraf123-hash.github.io/FoundYou/]
 
 ### Project Description
-[2-3 lines about what your project does]
+[Lost & Found is a simple and user-friendly app that helps people report, track, and recover lost items. Users can post details of lost or found items, and view nearby reports. The app aims to make reuniting owners with their belongings fast and hassle-free.]
 
 ### The Problem statement
-[What problem are you solving?]
+[A Lost & Found app helps users quickly report and recover lost items in a simple, efficient way.]
 
 ### The Solution
-[How are you solving it?]
+[A platform to report and track lost or found items, helping users quickly recover their belongings.]
 
 ---
 
@@ -31,25 +31,20 @@
 ### Technologies/Components Used
 
 **For Software:**
-- Languages used: [e.g., JavaScript, Python, Java]
-- Frameworks used: [e.g., React, Django, Spring Boot]
-- Libraries used: [e.g., axios, pandas, JUnit]
-- Tools used: [e.g., VS Code, Git, Docker]
+- Languages used: [Javascript,HTML]
+- Libraries used: []
+- Tools used: [ VS Code, Git]
 
-**For Hardware:**
-- Main components: [List main components]
-- Specifications: [Technical specifications]
-- Tools required: [List tools needed]
 
 ---
 
 ## Features
 
 List the key features of your project:
-- Feature 1: [Description]
-- Feature 2: [Description]
-- Feature 3: [Description]
-- Feature 4: [Description]
+- Feature 1: [Report Lost/Found Items]
+- Feature 2: [Search & Browse]
+- Feature 3: [Owner Contact]
+- Feature 4: [Recent Reports]
 
 ---
 
@@ -67,15 +62,7 @@ List the key features of your project:
 [Run commands - e.g., npm start, python app.py]
 ```
 
-### For Hardware:
 
-#### Components Required
-[List all components needed with specifications]
-
-#### Circuit Setup
-[Explain how to set up the circuit]
-
----
 
 ## Project Documentation
 
@@ -83,14 +70,16 @@ List the key features of your project:
 
 #### Screenshots (Add at least 3)
 
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+<img width="3781" height="1705" alt="index" src="https://github.com/user-attachments/assets/a33d52e5-ab38-4ef3-b7fe-29991b984722" />
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+it shows the index page to get started
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+<img width="3807" height="1759" alt="login" src="https://github.com/user-attachments/assets/8086683b-0e69-41ce-8490-58d1bf37e834" />
+
+it shows the login interface
+<img width="3716" height="1745" alt="dashboard" src="https://github.com/user-attachments/assets/eaa807c4-da52-4267-9178-51048cd898d1" />
+
+it shows the dashboard from which we can select either lost item or found item.
 
 #### Diagrams
 
@@ -106,15 +95,6 @@ List the key features of your project:
 
 ---
 
-### For Hardware:
-
-#### Schematic & Circuit
-
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
 
 #### Build Photos
 
@@ -137,7 +117,8 @@ List the key features of your project:
 
 #### API Documentation
 
-**Base URL:** `https://api.yourproject.com`
+**Base URL:**  apiKey: "AIzaSyCq9i9XLnXBvrsESOo294ccU3qNqJv4mJk",
+  
 
 ##### Endpoints
 
